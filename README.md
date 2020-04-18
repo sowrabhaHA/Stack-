@@ -20,6 +20,6 @@ g++ stack.c++
 
 ./a.out
 
-Thanks and Follow me forthe further programs
+Thanks and Follow me for the further programs
 
-For further Queries : mckchandan1999@gmail.com
+For further Queries : sowruprathu5@gmail.com
